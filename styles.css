@@ -1,6 +1,6 @@
 body{
   background-color:#f8efd4;
-  margin: 0;
+  margin: 0px;
 }
 hr{
   border-style: dotted none none;
@@ -11,7 +11,7 @@ hr{
 }
 h1{
   color: #d7385e;
-  margin-top: 0;
+  margin-top: 0px;
   padding-left: 20px;
   padding-top: 20px;
 }
