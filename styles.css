@@ -1,6 +1,7 @@
 body{
   background-color:#f8efd4;
   margin: 0px;
+  padding: 15px;
 }
 hr{
   border-style: dotted none none;
@@ -12,16 +13,7 @@ hr{
 h1{
   color: #d7385e;
   margin-top: 0px;
-  padding-left: 20px;
-  padding-top: 20px;
 }
 h3{
   color: #d7385e;
-  padding-left: 20px;
-}
-p{
-  padding-left: 20px;
-}
-img{
-  padding-left: 20px;
 }
